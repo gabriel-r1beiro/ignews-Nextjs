@@ -9,7 +9,7 @@ export const Header = () => {
                 <nav>
                     <ul>
                         <a className={styles.active} href="/">Home</a>
-                        <a href="/Posts">Post</a>
+                        <a href="/Posts">Posts</a>
                     </ul>
                 </nav>
                 <SignInButton />
